@@ -76,5 +76,3 @@ public class SectionsStatePagerAdapter extends FragmentStatePagerAdapter {
         }
     }
 }
-
-

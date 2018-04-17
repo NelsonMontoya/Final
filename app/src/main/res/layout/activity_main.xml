@@ -10,9 +10,17 @@
     android:background="@color/white"
     tools:context=".Home.MainActivity">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/container">
+
+    </FrameLayout>
+
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:id="@+id/relLayoutParent">
 
 
         <!-- top toolbar -->
@@ -43,4 +51,6 @@
 
 
     </RelativeLayout>
+
+
 </android.support.design.widget.CoordinatorLayout>

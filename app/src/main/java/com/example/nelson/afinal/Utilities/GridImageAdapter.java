@@ -17,7 +17,7 @@ import com.nostra13.universalimageloader.core.listener.ImageLoadingListener;
 
 import java.util.ArrayList;
 
-public class GridImageAdapter extends ArrayAdapter<String> {
+public class GridImageAdapter extends ArrayAdapter<String>{
 
     private Context mContext;
     private LayoutInflater mInflater;

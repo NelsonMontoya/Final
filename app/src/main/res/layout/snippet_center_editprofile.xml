@@ -54,7 +54,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/username"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="username"/>
@@ -82,7 +82,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/display_name"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="display name"/>
@@ -110,7 +110,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/website"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="Website"/>
@@ -138,7 +138,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/description"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="Description"/>
@@ -179,7 +179,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/email"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="Email"/>
@@ -206,7 +206,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/phoneNumber"
                     android:layout_centerVertical="true"
-
+                    android:layout_marginStart="40dp"
                     android:background="@null"
                     android:inputType="textNoSuggestions"
                     android:hint="Phone Number"/>
